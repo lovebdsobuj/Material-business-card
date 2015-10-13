@@ -2,11 +2,11 @@
 My own personal business card made in html/css/js with a material feel.
 
 ## Credits
-Inspired after the .psd of [Md Alamin Mir](http://www.materialup.com/posts/free-resume-with-businesscard)
+Inspired after the .psd of [Md Alamin Mir](http://www.materialup.com/posts/free-resume-with-businesscard), [Dirk-Jan Wassink](https://github.com/DJWassink/Material-business-card) 
 
 ## Screenshots
-![Front screenshot](front.jpg)
-![Back screenshot](back.jpg)
+![Front screenshot](front.png)
+![Back screenshot](back.png)
 
 ## How to
 You can simply alter the html file to change the personal details. Be sure to use a perfectly square image to get a exact round image.
